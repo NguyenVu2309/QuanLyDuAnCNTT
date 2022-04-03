@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.exe.config
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.exe
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.pdb
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.DangNhap.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.HeThong.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.Properties.Resources.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLHoaDon.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLNhanSu.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLSanPham.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.exe
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.pdb
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.exe.config
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.exe
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\bin\Release\BanPhanBon.pdb
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.AssemblyReference.cache
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.SuggestedBindingRedirects.cache
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.DangNhap.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.HeThong.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.Properties.Resources.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLHoaDon.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLNhanSu.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.QLSanPham.resources
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.GenerateResource.cache
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.csproj.CoreCompileInputs.cache
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.exe
+C:\Cua hang phan bon\Cua hang phan bon\BanPhanBon\obj\Release\BanPhanBon.pdb

@@ -1,0 +1,39 @@
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csproj.AssemblyReference.cache
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.DangNhap.resources
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.Properties.Resources.resources
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.QLNhanSu.resources
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csproj.GenerateResource.cache
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csproj.CoreCompileInputs.cache
+D:\ASP.NET\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.exe.config
+D:\ASP.NET\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.exe
+D:\ASP.NET\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.pdb
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.exe
+D:\ASP.NET\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.pdb
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.DangNhap.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.HeThong.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.Properties.Resources.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.QLHoaDon.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.QLNhanSu.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.QLSanPham.resources
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.exe
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\obj\Debug\BanPhanBon.pdb
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.exe.config
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.exe
+C:\Users\Admin\Documents\New folder\BanPhanBon\BanPhanBon\bin\Debug\BanPhanBon.pdb
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Debug\BanPhanBon.exe.config
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Debug\BanPhanBon.exe
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\bin\Debug\BanPhanBon.pdb
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.DangNhap.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.HeThong.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.Properties.Resources.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.QLHoaDon.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.QLNhanSu.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.QLSanPham.resources
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.exe
+C:\Users\Admin\Desktop\Cua hang phan bon\BanPhanBon\obj\Debug\BanPhanBon.pdb
